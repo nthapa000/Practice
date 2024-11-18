@@ -1,0 +1,4 @@
+Orginal Data 
+2 90 1 70 56 
+ Sorted Data 
+1 2 56 70 90 
